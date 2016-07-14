@@ -33,6 +33,3 @@ protected void onActivityResult(int requestCode, int resultCode, Intent data) {
     super.onActivityResult(requestCode, resultCode, data);
 }
 ```
-
-## Video Demo
-Link: https://youtu.be/cSGFiP-gZYU
